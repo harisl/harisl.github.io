@@ -55,4 +55,21 @@ hr.divide {
     width: 80%;
 
 }
-		
+
+.about{
+	margin-top: 50px;
+	margin-bottom: 100px;
+}
+
+i.bulletin {
+	color: #9E9E9E;
+	position: absolute;
+	right: 10px;
+	font-size: 400px;
+}
+
+p {
+	color: #9E9E9E;
+	font-size: 20px;
+}
+
