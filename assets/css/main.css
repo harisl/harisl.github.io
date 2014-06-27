@@ -1,3 +1,58 @@
 body {
 	background-image: url(../img/background.png);
 }
+
+ul {
+	list-style-type: none;
+}
+
+li {
+	float: right;
+}
+
+li > a{
+
+ font-family: Verdana;
+ display: block;
+ width: 200px;
+ padding: 10px;
+ text-align: center;
+ 
+ color: #9E9E9E;
+ text-decoration: none;
+
+}
+
+li > a:hover{
+	text-decoration: none;
+	color: #E0E0E0;
+}
+
+.hdr {
+	margin-top: 200px;
+	text-align: center;
+	font-size: 200px;
+	font-family: 'Ubuntu', sans-serif;
+	color: #A41629;
+	margin-bottom: 50px;
+}
+
+h2 {
+	text-align: center;
+	font-size: 40px;
+	font-family: 'Ubuntu', sans-serif;
+	color: #9E9E9E;
+}
+ span {
+	color: #A41629;
+}
+
+hr.divide {
+	
+    height: 12px;
+    border: 0;
+    box-shadow: inset 0 12px 12px -12px rgba(1,1,1,1.5);
+    width: 80%;
+
+}
+		
