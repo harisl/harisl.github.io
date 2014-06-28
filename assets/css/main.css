@@ -68,8 +68,51 @@ i.bulletin {
 	font-size: 400px;
 }
 
+i.cogs {
+    color: #9E9E9E;
+    font-size: 400px;
+    display: block;
+    text-align: center;
+}
+
 p {
 	color: #9E9E9E;
 	font-size: 20px;
+}
+
+h3 {
+    color: #9E9E9E;
+	font-size: 20px;
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+
+h4{
+    color: #9E9E9E;
+	font-size: 20px;
+}
+
+
+i.twitter, i.github {
+    color: #9E9E9E;
+    font-size: 50px;
+    padding: 20px;
+    position: relative;
+    float: right;
+    
+}
+
+span.nostyle {
+    color: #9E9E9E;
+	font-size: 20px
+}
+
+footer {
+    text-align: center;
+}
+
+p.footer {
+    font-size: 10px;
 }
 
